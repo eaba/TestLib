@@ -8,6 +8,7 @@ namespace TestLib.Tests
         [Fact]
         public void TestMethod1()
         {
+            Assert.True(true);
         }
     }
 }
